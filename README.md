@@ -65,19 +65,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a href="[https://github.com/virajpatidar10/HouseHunt" title="HouseHunt Property Rental](https://github.com/virajpatidar10/HouseHunt-Property-Rental-.git)"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatidar10&repo=HouseHunt&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/virajpatidar10/Doctor-Appointment" title="Doctor Appointment Booking System"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatidar10&repo=Doctor-Appointment&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/>
-<div width="100%" align="center">
-  <a href="https://github.com/virajpatidar10/Carpool-WebApp" title="Carpool Website"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatidar10&repo=Carpool-WebApp&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/virajpatidar10/Mario-Calculator" title="Mario Calculator"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatidar10&repo=Mario-Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/>
-
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2> <br> <div width="100%" align="center"> <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a> </div> <br/><br/><br/><br/><br/><br/> <div width="100%" align="center"> <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a> <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a> </div> <br/><br/><br/><br/><br/><br/> <div width="100%" align="center"> <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a> <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a> </div> <br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/virajpatidar10?tab=repositories" title="Show More Repositories">🔎 Show More 🔍</a>
 </h4>
