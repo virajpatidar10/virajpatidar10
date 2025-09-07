@@ -3,9 +3,10 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Viraj+Patidar....;Full+Stack+Developer;Cloud+Computing+Enthusiast;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Viraj+Patidar....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/viraj-patidar-a1a990249" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
