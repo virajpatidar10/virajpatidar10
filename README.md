@@ -68,7 +68,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a href="https://github.com/virajpatidar10/HouseHunt" title="HouseHunt Property Rental"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatidar10&repo=HouseHunt&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="[https://github.com/virajpatidar10/HouseHunt" title="HouseHunt Property Rental](https://github.com/virajpatidar10/HouseHunt-Property-Rental-.git)"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatidar10&repo=HouseHunt&theme=react&border_color=61dafb&border_radius=10"></a>
   <a href="https://github.com/virajpatidar10/Doctor-Appointment" title="Doctor Appointment Booking System"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatidar10&repo=Doctor-Appointment&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/>
