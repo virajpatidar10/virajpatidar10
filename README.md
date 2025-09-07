@@ -8,10 +8,11 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/viraj-patidar-a1a990249" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/virajpatidar10" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
-  <code><a href="mailto:virajpatidar1008@gmail.com" title="Email"><img width="22" src="images/gmail.png"> Gmail</a></code>
+  <code><a href="https://www.linkedin.com/in/viraj-patidar-a1a990249" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="https://github.com/virajpatidar10" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
+  <code><a href="mailto:virajpatidar1008@gmail.com" title="Email"><img width="22" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"> Gmail</a></code>
 </h5>
+
 
 <br>
 
