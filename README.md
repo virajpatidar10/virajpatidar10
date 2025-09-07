@@ -45,7 +45,7 @@
 <hr>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
+<!-- <br>
 <p align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=virajpatidar10&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak Stats" />
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=virajpatidar10&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
@@ -55,7 +55,7 @@
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajpatidar10&hide=php,powershell&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
 
 <br>
 
