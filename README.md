@@ -65,42 +65,6 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-
-<div align="center" width="100%">
-  <a href="https://github.com/virajpatidar10/HouseHunt" title="HouseHunt Property Rental">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatidar10&repo=HouseHunt&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/virajpatidar10/Doctor-Appointment" title="Doctor Appointment Booking System">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatidar10&repo=Doctor-Appointment&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br><br>
-
-<div align="center" width="100%">
-  <a href="https://github.com/virajpatidar10/Carpool-Website" title="Carpool Website">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatidar10&repo=Carpool-Website&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/virajpatidar10/Mario-Calculator" title="Mario Calculator">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatidar10&repo=Mario-Calculator&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br><br>
-
-<div align="center" width="100%">
-  <a href="https://github.com/virajpatidar10/IoT-Weather-System" title="IoT Weather System">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatidar10&repo=IoT-Weather-System&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/virajpatidar10/CPWA-main" title="Carpool Web App (Frontend)">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=virajpatidar10&repo=CPWA-main&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br><br>
-
-<h4 align="center">
-  <a href="https://github.com/virajpatidar10?tab=repositories" title="Show More Repositories">🔎 Show More 🔍</a>
-</h4>
 
 
 <!--
